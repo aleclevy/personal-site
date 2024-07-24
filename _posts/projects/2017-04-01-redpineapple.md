@@ -7,26 +7,21 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Red Pineapple"
-  type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/redpineapple/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  title: "DirtViz"
+  type: "jLab"
+  url: "https://dirtviz.jlab.ucsc.edu/"
+  logo: "/assets/images/projects/jLab/jLab.png"
+  tech: "SQL, React.js, Data Visualization, Flask, Docker, AWS"
 
 agency:
-  title: "Red Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
-  year: "2017"
+  year: "2023"
 
 images:
   - image:
-    url: "/assets/images/projects/redpineapple/devices.jpg"
-    alt: "Red Pineapple website on tablet, mobile and desktop"
-  - image:
-    url: "/assets/images/projects/redpineapple/desktop.jpg"
-    alt: "Red Pineapple website on a desktop device"
-  - image:
-    url: "/assets/images/projects/redpineapple/mobile.jpg"
-    alt: "Red Pineapple website on a mobile device"
+    url: "/assets/images/projects/jLab/chart.png"
+    alt: "DirtViz Charts"
+
 ---
-<p>Pineapples are delicious tropical fruit. There are more than a hundred varieties of pineapples that grow in varying sizes. The plant is indigenous to South America and is said to originate from the area between southern Brazil and Paraguay.</p>
+<p>DirtViz is a project to visualize data collected from sensors deployed in sensor networks. We have deployed a number of sensors measuring qualities like soil moisture, temperature, current and voltage in outdoor settings. The project goal is to create a fully-fledged dataviz tool tailored to the types of data collected from embedded systems sensor networks.
+
+</p>
